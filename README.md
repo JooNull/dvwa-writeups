@@ -1,4 +1,4 @@
-# DVWA Lab Notes
+# DVWA Writeups
 
 Practical notes and writeups documenting hands-on security testing with Damn Vulnerable Web Application (DVWA).
 
